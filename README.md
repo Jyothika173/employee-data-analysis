@@ -15,4 +15,4 @@ An Excel dashboard project built using Power Query and PivotTables to analyze sa
 - PivotTables and PivotCharts
 
 ## Dashboard Preview
-![Dashboard](Sales dashboard.png)
+![Dashboard](sales_dashboard.png)
